@@ -1,3 +1,4 @@
+![MasterHead](https://technology.amis.nl/wp-content/uploads/2018/03/scald.png)
 <h1 align="center">Hi 👋, I'm Alihan Balkaş</h1>
 <h3 align="center">A passionate Jr Back-end Developer</h3>
 
@@ -14,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alihanbalkas&show_icons=true&locale=en" alt="alihanbalkas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihanbalkas&" alt="alihanbalkas" /></p>
-
