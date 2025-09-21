@@ -1,6 +1,6 @@
 ![MasterHead](https://technology.amis.nl/wp-content/uploads/2018/03/scald.png)
 <h1 align="center">Hi 👋, I'm Alihan Balkaş</h1>
-<h3 align="center">A passionate Jr Back-end Developer</h3>
+<h3 align="center">A passionate Back-end Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
