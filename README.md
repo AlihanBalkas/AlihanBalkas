@@ -9,7 +9,7 @@
 - 💼 Currently working on **Spring Boot & Microservices**  
 - 🌱 Learning **Cloud Technologies (Docker, Kubernetes, AWS)**  
 - 🛠️ Love working with **MongoDB, PostgreSQL, MySQL**  
-- 📫 Reach me at: **alihanbalkas@gmail.com**  
+- 📫 Reach me at: **alihanbalkas1@gmail.com**  
 
 ---
 
